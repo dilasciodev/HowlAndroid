@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/josephdilascio/REACTN/HowlAlertAndroid/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/josephdilascio/REACTN/HowlAlertAndroid/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/josephdilascio/REACTN/HowlAlertAndroid/android/app/build/intermediates/res/merged/release/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/josephdilascio/REACTN/HowlAlertAndroid/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.0/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/josephdilascio/REACTN/HowlAlertAndroid/android/app/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/josephdilascio/REACTN/HowlAlertAndroid/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/josephdilascio/REACTN/HowlAlertAndroid/android/app/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/josephdilascio/REACTN/HowlAlertAndroid/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/josephdilascio/REACTN/HowlAlertAndroid/android/app/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/josephdilascio/REACTN/HowlAlertAndroid/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.1.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

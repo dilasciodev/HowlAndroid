@@ -1,0 +1,51 @@
+rootProject.name = 'HowlAndroid'
+
+include ':react-native-fbsdk'
+project(':react-native-fbsdk').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-fbsdk/android')
+
+include ':react-native-maps'
+project(':react-native-maps').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-maps/lib/android')
+
+include ':react-native-google-signin'
+project(':react-native-google-signin').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-google-signin/android')
+
+include ':react-native-immediate-phone-call'
+project(':react-native-immediate-phone-call').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-immediate-phone-call/android')
+
+include ':react-native-play-sound'
+project(':react-native-play-sound').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-play-sound/android')
+
+include ':app'
+include ':react-native-camera'
+project(':react-native-camera').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-camera/android')
+
+include ':react-native-mail-compose'
+project(':react-native-mail-compose').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-mail-compose/android')
+
+
+include ':react-native-contacts-wrapper'
+project(':react-native-contacts-wrapper').projectDir = new File(settingsDir, '../node_modules/react-native-contacts-wrapper/android/app')
+
+include ':react-native-keychain'
+project(':react-native-keychain').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-keychain/android')
+
+include ':rncamerakit'
+project(':rncamerakit').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-camera-kit/android/')
+
+include ':react-native-camera'
+project(':react-native-camera').projectDir = new File(rootProject.projectDir, 	'../node_modules/react-native-camera/android')
+
+include ':react-native-google-places'
+project(':react-native-google-places').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-google-places/android')
+
+include ':RNMail', ':app'
+project(':RNMail').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-mail/android')
+
+include ':react-native-immediate-phone-call', ':app'
+project(':react-native-immediate-phone-call').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-immediate-phone-call/android')
+
+include ':react-native-billing', ':app'
+project(':react-native-billing').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-billing/android')
+
+include ':RNWebView', ':app'
+project(':RNWebView').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-webview-android/android')

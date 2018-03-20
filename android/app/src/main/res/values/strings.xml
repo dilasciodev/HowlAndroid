@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Howl</string>
+    <string name="RNB_GOOGLE_PLAY_LICENSE_KEY">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm8bA3vA6HZOJA4XAdfB/C+0dvZ9JaGZFryv1XDXqGzjXE8Wp+NLak96m7IUDOXpLeeKOLxL6dj2fP/MUouLKLBLig3sjV5acqullT3Yhe2oXOBdnMIGWa1VLp5TfcCIFLwThyOARrIs3f1ScdcSRRNGUKSqcf3bcvwzdVq5CGaNKrHg7QRhF2M185XZTJCvOxG3wp62ktCIvn9C5hK4MAMc6X2NLESS4u7pI0xNyNqVL/Y+mVpgHgIHbwARyztE9GejWACR/vAYspVQ4gy1nzoEHk6Ss1jrGtiXFGPfBl4TG2lqElCkPL1RK9+uJ0mPro49UZVRPS/IenusXnAC3vwIDAQAB</string>
+    <string name="facebook_app_id">2047098818906172</string>
+    <string name="fb_login_protocol_scheme">fb2047098818906172</string>
+
+</resources>
